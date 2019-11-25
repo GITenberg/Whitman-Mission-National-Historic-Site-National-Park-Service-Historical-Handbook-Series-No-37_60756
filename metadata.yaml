@@ -1,11 +1,16 @@
 _repo: Whitman-Mission-National-Historic-Site-National-Park-Service-Historical-Handbook-Series-No-37_60756
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60756-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Erwin N.
     gutenberg_agent_id: '51128'
     url: http://www.gutenberg.org/2009/agents/51128
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60756#Whitman-Mission-National-Historic-Site-National-Park-Service-Historical-Handbook-Series-No-37
 gutenberg_issued: '2019-11-22'
 gutenberg_type: Text
 identifiers:
